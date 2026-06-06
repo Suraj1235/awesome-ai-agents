@@ -2273,6 +2273,25 @@ Coding, general purpose
 </details>
 
 
+## [Open Dynamic Workflows](https://github.com/Suraj1235/open-dynamic-workflows)
+An open-source dynamic multi-agent workflow engine for AI coding agents
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own, Orchestration
+
+### Description
+- An open-source dynamic multi-agent workflow engine for AI coding agents (OpenCode, Codex, Antigravity, VS Code) that lets you plan, orchestrate, and adversarially verify parallel agents.
+- Ships a Codex/Antigravity skill folder (SKILL.md + a daemon bridge) and an OpenCode plugin.
+- Bring-your-own-model: works with Anthropic, OpenAI-compatible, and Ollama backends.
+
+### Links
+- [GitHub](https://github.com/Suraj1235/open-dynamic-workflows)
+
+</details>
+
+
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
 
